@@ -21,7 +21,7 @@ It serves as a platform to:
    → [Opening Remarks]()
 
 2. **Initiatives**  
-   → [Initiatives]()  
+   → [Initiatives](https://github.com/Tinesra/GA-summary-GroupCYCLOPS/blob/section2/section2.md)  
 
 3. **Plans & Programs**  
    → [Plans & Programs]()
