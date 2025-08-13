@@ -30,7 +30,7 @@ It serves as a platform to:
    → [Communication Channels]()
 
 5. **Open Forum Minutes**  
-   → [Open Forum Minutes]()
+   → [Open Forum Minutes](./section4.md)
 
 ---
 
