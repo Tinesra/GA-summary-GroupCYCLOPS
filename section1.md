@@ -16,7 +16,7 @@ Librarians are now part of our faculty members, enriching our academic community
 ## Introduction of Officers
 
 Meet your officers, from **Level Representatives** to the **TACTICS Officers**.  
-Mr. Gil Penaflor introduced the upcoming events for this year—stay tuned and get involved!
+President Gil Penaflor introduced the upcoming events for this year, get involved!
 
 ---
 
@@ -35,4 +35,4 @@ The importance of SRA lies in developing **critical thinking skills** and **read
 
 To our new first-year students:  
 Make friends, build connections, and let this be a time for new beginnings.  
-Welcome to the community!
+Let's make this a year of growth, welcome to the department of computer science and the department of informatics!
