@@ -20,11 +20,11 @@ It serves as a platform to:
 1. **Opening Remarks**  
    → [Opening Remarks]()
 
-2. **Initiatives**  
-   → [Initiatives]()  
+2. **Initiatives and Upcoming Events**  
+   → [Initiatives](./section2.md)  
 
-3. **Plans & Programs**  
-   → [Plans & Programs]()
+3. **Updates and Applications**  
+   → [Updates and Applications](./section3.md)
 
 4. **Communication Channels**  
    → [Communication Channels]()
