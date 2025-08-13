@@ -9,7 +9,7 @@ We are excited to announce the creation of a new department:
 **Department of Informatics**  
 and a new degree program:  
 **Bachelor of Library and Information Science (BLIS)**.  
-Librarians are now part of our faculty members, enriching our academic community.
+Librarians are now part of our faculty members.
 
 ---
 
