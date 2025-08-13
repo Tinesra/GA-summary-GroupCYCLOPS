@@ -16,7 +16,7 @@ Librarians are now part of our faculty members.
 ## Introduction of Officers
 
 Meet your officers, from **Level Representatives** to the **TACTICS Officers**.  
-President Gil Penaflor introduced the upcoming events for this year, get involved!
+President Gil Penaflor introduced the upcoming events for this year, get involved!!
 
 ---
 
