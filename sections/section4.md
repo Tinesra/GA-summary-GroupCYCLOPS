@@ -9,7 +9,8 @@ Each channel serves a specific purpose to ensure smooth coordination and timely 
 
 #### Official Website  
 [<img src="https://res.cloudinary.com/djcpb6rcr/image/upload/v1753185149/strapi-uploads/tactics_815b5f7e7a.svg" width="25"> **TACTICS Website**](https://www.facebook.com/adnutactics)  
-Created by **Ma. Arsent Louise Bico, Neil Villanueva, and Carlo Panambo**. Features:  
+Created by **Ma. Louise Arsent Bico, Neil Villanueva, and Carlo Panambo**. 
+Features:  
 - Organization information & news  
 - Programs and resources  
 - Officer profiles  
