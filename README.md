@@ -18,19 +18,19 @@ It serves as a platform to:
 
 ## Sections & Links
 1. **Opening Remarks**  
-   → [Opening Remarks]()
+   → [Opening Remarks](./sections/section1.md)
 
 2. **Initiatives and Upcoming Events**  
-   → [Initiatives](./section2.md)  
+   → [Initiatives](./sections/section2.md)  
 
 3. **Updates and Applications**  
-   → [Updates and Applications](./section3.md)
+   → [Updates and Applications](./sections/section3.md)
 
 4. **Communication Channels**  
-   → [Communication Channels]()
+   → [Communication Channels](./sections/section4.md)
 
 5. **Open Forum Minutes**  
-   → [Open Forum Minutes](./section4.md)
+   → [Open Forum Minutes](./sections/section5.md)
 
 ---
 
